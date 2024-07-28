@@ -12,3 +12,5 @@ Nesta aula, estamos aprendendo comandos útes para projetos futuros.
 ### git add .
 
 **adiciona todos os arquivos para a esteira de commit**
+
+### git commit
